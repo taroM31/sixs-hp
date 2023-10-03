@@ -15,9 +15,9 @@ export default async function Page() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>テクノロジーの力で世界を変える</h1>
+          <h1 className={styles.title}>デジタル革新を通じてビジネスを変革する</h1>
           <p className={styles.description}>
-            私たちは市場をリードしているグローバルテックカンパニーです。
+            私たちはビジネスの成長、効率化、顧客満足度の推進に向けて、デジタルトランスフォーメーションの力を信じています。私たちのカスタムソリューションは、現代のデジタルランドスケープで成功するための手段です。
           </p>
         </div>
         <Image
@@ -42,9 +42,7 @@ export default async function Page() {
             <h2 className={styles.sectionTitleEn}>Business</h2>
             <p className={styles.sectionTitleJa}>事業内容</p>
             <p className={styles.sectionDescription}>
-              当社は、次世代テクノロジーの研究開発・製造・販売を行う革新的な企業です。
-              <br />
-              AI、ロボット工学、自律システムなど、幅広い分野でのソリューション提供を通じて、社会の進化と未来の創造に貢献します。
+              AI駆動の自動化から没入型のUX/UIデザインまで、クライアントの一意のニーズに応える包括的なDXソリューションを提供しています。
             </p>
             <ButtonLink href="/business">もっとみる</ButtonLink>
           </div>
@@ -71,31 +69,23 @@ export default async function Page() {
               <h2 className={styles.sectionTitleEn}>About Us</h2>
               <p className={styles.sectionTitleJa}>私たちについて</p>
               <p className={styles.sectionDescription}>
-                「テクノロジーの力で世界を変える」をミッションに掲げ、日々活動をしています。
+                「デジタル革新を通じてビジネスを変革する」をミッションに掲げ、日々活動をしています。
               </p>
               <dl className={styles.info}>
                 <dt className={styles.infoTitle}>社名</dt>
-                <dd className={styles.infoDescription}>株式会社Simple</dd>
-              </dl>
-              <dl className={styles.info}>
-                <dt className={styles.infoTitle}>設立</dt>
-                <dd className={styles.infoDescription}>2023年4月</dd>
+                <dd className={styles.infoDescription}>株式会社SiXS</dd>
               </dl>
               <dl className={styles.info}>
                 <dt className={styles.infoTitle}>所在地</dt>
                 <dd className={styles.infoDescription}>
-                  〒000-0000
+                  〒106-0032
                   <br />
-                  東京都渋谷区渋谷1-1-1
+                  東京都港区六本木３丁目１６−１３
                 </dd>
               </dl>
               <dl className={styles.info}>
                 <dt className={styles.infoTitle}>代表者</dt>
-                <dd className={styles.infoDescription}>鈴木 太郎</dd>
-              </dl>
-              <dl className={styles.info}>
-                <dt className={styles.infoTitle}>資本金</dt>
-                <dd className={styles.infoDescription}>1,000万円</dd>
+                <dd className={styles.infoDescription}>三原 太郎</dd>
               </dl>
             </div>
           </div>
