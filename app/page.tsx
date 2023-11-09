@@ -15,7 +15,7 @@ export default async function Page() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>デジタル革新を通じてビジネスを変革する</h1>
+          <h1 className={styles.title}>Co-Create the Future</h1>
           <p className={styles.description}>
             私たちはビジネスの成長、効率化、顧客満足度の推進に向けて、デジタルトランスフォーメーションの力を信じています。私たちのカスタムソリューションは、現代のデジタルランドスケープで成功するための手段です。
           </p>
