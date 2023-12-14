@@ -80,7 +80,7 @@ export default async function Page() {
                 <dd className={styles.infoDescription}>
                   〒106-0032
                   <br />
-                  東京都港区六本木３丁目１６−１３
+                  東京都港区六本木３丁目１６−１３-１１０１
                 </dd>
               </dl>
               <dl className={styles.info}>
